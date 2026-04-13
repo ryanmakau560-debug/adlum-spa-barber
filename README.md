@@ -1,16 +1,30 @@
-# React + Vite
+# 🫧 Premium Spa & Barbershop Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sophisticated, high-end grooming and wellness platform. This project combines a modern "Glassmorphism" design aesthetic with a fully functional booking system and an administrative management suite.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Insert your deployment link here, e.g., GitHub Pages or Vercel]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Core Features
+* **Glassmorphism UI:** High-end visual style using frosted-glass effects, backdrop blurs, and vibrant gradients.
+* **Client Booking System:** Intuitive multi-page flow for selecting services and scheduling appointments.
+* **Admin Dashboard:** A private interface for business owners to manage daily operations.
+* **Data Persistence:** Implementation of an index-based system to ensure appointment data remains consistent across the site.
+* **Stats Summary:** A dedicated section in the dashboard for tracking business performance and booking volume.
 
-## React Compiler
+## 🛠️ Technical Stack
+* **HTML5:** Semantic structure for accessibility and SEO.
+* **CSS3:** Advanced usage of Flexbox, CSS Grid, and `backdrop-filter` for the glass effect.
+* **JavaScript (ES6+):** Modular logic for state management, focus timers, and dynamic DOM updates.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
+* `index.html` - The landing page and entry point for persistence.
+* `tasks.html` - Data management and appointment scheduling logic.
+* `admin.html` - The dashboard for viewing stats and managing entries.
+* `style.css` - Custom glassmorphic styling and layout rules.
+* `script.js` - Core JavaScript components and functional logic.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation & Usage
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
